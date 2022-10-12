@@ -21,5 +21,13 @@ A Microsoft trabalhou em melhorias e implementações do Java na sua plataforma,
 
 ## Versões
 
-- LTS (Long Term Support)
-- RC (Release Candidate)
+- LTS (Long Term Support) - 3 anos
+- RC (Release Candidate) - 18 meses
+
+## Compilador .NET
+
+Compilador é um programa que realiza a conversão de linguagem de alto nível para baixo nível
+
+C# code -> C# Compiler -> IL code -> JIT compiler -> Native Code
+
+Compile time (antes do IL code) e Runtime (depois do IL code)
